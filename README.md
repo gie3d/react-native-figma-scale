@@ -2,6 +2,8 @@
 
 a react-native library to automatically scaling based on your design in Figma
 
+![Demo](./demo.jpg)
+
 ## Installation
 
 ```sh
