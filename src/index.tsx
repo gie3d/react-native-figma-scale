@@ -1,5 +1,4 @@
-export default {
-  multiply(a: number, b: number) {
-    return Promise.resolve(a * b);
-  },
-};
+import ScaleProvider from './ScaleProvider';
+import { swidth, sheight } from './Scale';
+
+export { ScaleProvider, swidth, sheight };
